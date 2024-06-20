@@ -1,0 +1,232 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+html{
+    scroll-behavior: smooth;
+}
+.ul_1
+{
+    list-style: none;
+    display: flex;
+    text-align: center;
+    justify-content: flex-end;
+    margin-right: 0px;
+    margin-left: ;
+    margin-top: 40px;
+    text-decoration: none;
+    
+}
+body{
+    background-color: black;
+}
+.list
+{
+    text-decoration: none;
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 20px;
+
+}
+.list a{
+    color: green;
+    text-decoration: none;
+}
+.list :hover
+{
+    color: blue;
+    text-decoration:underline;
+
+}
+.logo
+{
+    width: 400px;
+    height: 300px;
+    float: right;
+    margin-top: 80px;
+    position: relative;
+    left: 200px;
+    border-radius: 50%;
+}
+.desc
+{
+    color: yellow;
+    margin-left: 100px;
+    font-size: 50px;
+    margin-top: 50px;
+}
+.home_page
+{
+    display: flex;
+    align-items: center;
+}
+.a-list
+{
+    color: white;
+}
+.a-logo
+{
+    width:80px;
+    height: 80px;
+    border-radius: 50%;
+}
+.a-h
+{
+    color: white;
+}
+.a-content
+{
+    display: flex;
+    margin-top: 100px;
+    margin-left: 100px;
+}
+.a-h
+{
+    margin-left: 550px;
+    margin-top: 50px;
+    font-size: 50px;
+}
+.a-content .a-list
+{
+    margin-left: 30px;
+    margin-top: 10px;
+
+}
+.desc1
+{
+    color:white;
+}
+.a-h1
+{
+    margin-left: 30px;
+}
+.slide
+{
+    color: white;
+    display: block;
+    justify-content: space-evenly;
+    left: -100px;
+}
+.skill
+{
+    display: block;
+    list-style-type: circle;
+}
+.skill .list1
+{
+    color: white;
+    list-style-type:circle;
+    margin-left: 50px;
+}
+.slide :hover
+{
+    text-decoration: underline;
+    color:aquamarine;
+}
+.a-sh
+{
+    color: chartreuse;
+}
+.h-1
+{
+    color: greenyellow;
+    text-align: center;
+    font-size: 50px;
+    /*margin-top: 200px;*/
+}
+.p-logo2
+{
+    width: 350px;
+    height: 170px;
+    margin-left: 50px;
+}
+.p-logo1
+{
+    margin-left: 50px;
+}
+.p-dis
+{
+    margin-top: 60px;
+    display: flex;
+
+}
+.p-logo3
+{
+    width: 350px;
+    height: 170px;
+    margin-left: 100px;
+}
+.p-dis .dis1
+{
+    color:chartreuse;
+    align-items: center;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.p-dis .dis2
+{
+    color:chartreuse;
+    align-items: center;
+    margin-left: 200px;
+    margin-top: 10px;
+}
+
+.p-dis .dis3
+{
+    color:chartreuse;
+    align-items: center;
+    margin-left: 150px;
+    margin-top: 10px;
+}
+.h-2
+{
+    color: greenyellow;
+    text-align: center;
+    font-size: 50px;
+    margin-top: 100px;
+}
+.p-dis{
+    cursor: pointer;
+}
+.contactinfo
+{
+    color: white;
+    align-items: center;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 500px;
+}
+.insta
+{
+    width: 30px;
+    height: 30px;
+    margin-left: 650px;
+    border-radius: 50%;
+}
+.linkedin
+{
+    width: 30px;
+    height: 30px;
+    margin-left: 30px;
+}
+.sm
+{
+    margin-top: 50px;
+    margin-bottom: 80px;
+}
+header .ul_1
+{
+    /*background-color: red;*/
+    font-size: 25px;
+
+}
+header{
+    background-color: darkmagenta;
+}
+
+
+
+
+
