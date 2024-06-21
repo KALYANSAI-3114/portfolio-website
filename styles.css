@@ -36,7 +36,7 @@ body{
 
 }
 .list a{
-    color: green;
+    color: red;
     text-decoration: none;
 }
 .list :hover
@@ -226,9 +226,6 @@ header .ul_1
     /*background-color: red;*/
     font-size: 25px;
 
-}
-header{
-    background-color: darkmagenta;
 }
 
 
