@@ -18,6 +18,11 @@ html{
     text-decoration: none;
     
 }
+.ul_1 .list
+{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
 body{
     background-color: black;
 }
